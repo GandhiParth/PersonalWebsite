@@ -2,7 +2,8 @@
 title: "About"
 ---
 
-About this site
+About this site.
+Testing continous deployment
 
 ```{r}
 1 + 1

@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: aaec3762-90e9-4c8c-b8e8-94f3f5c573ee
+      url: 'https://parthgandhi.netlify.app/'
