@@ -2,18 +2,41 @@ project:
   type: website
 
 website:
-  title: "PersonalWebsite"
+  title: "Parth Gandhi"
+  #logo: add logo in future 
+  #facicon: add favicon in future
+  back-to-top-navigation: true
+  open-graph: true
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    #background: primary
+    #foreground: secondary
+    right:
+      - text: "About"
+        href: about/index.qmd
+      - text: "Projects"
+        href: projects/projects.qmd
+      - text: "Blog"
+        href: blog/blog.qmd
+      - text: "Notes"
+        href: notes/notes.qmd
+      - text: "More"
+        menu: 
+          - text: "Recipies"
+            href: recipies/recipies.qmd
+          - text: "Reading List"
+            href: reading_list.qmd
+      - icon: linkedin
+        url: https://www.linkedin.com/in/parth-s-gandhi-93b524112/
+      - icon: github
+        url: https://github.com/GandhiParth
+        
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: solar
     css: styles.css
-    toc: true
+    toc: false
 
 execute: 
   freeze: auto

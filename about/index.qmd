@@ -1,0 +1,24 @@
+---
+title: "Parth Gandhi"
+about: 
+  template: jolla
+  image: assets/blank_porfile.jpg
+  links:
+    - icon: linkedin
+      text: "LinkedIn"
+      url: https://www.linkedin.com/in/parth-s-gandhi-93b524112/
+    - icon: github
+      text: "Github"
+      url: https://github.com/GandhiParth
+---
+
+Parth Gandhi is the Data Scientist at Accenture. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+Indian Institute of Technology Bombay| Bombday, IN    
+M.Sc. in Applied Statistics & Informatics | July 2021 - May 2023
+
+## Experience
+
+Accenture | Data Scientist | July 2023 - present
