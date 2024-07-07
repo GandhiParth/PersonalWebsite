@@ -1,0 +1,6 @@
+---
+title: "Recipies"
+description: "safe space for my taste buds"
+listing: 
+  type: default
+---

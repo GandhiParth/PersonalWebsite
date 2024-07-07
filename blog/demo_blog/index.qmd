@@ -1,0 +1,18 @@
+---
+title: "Demo Blog"
+subtitle: "Demo test blog"
+description: "This is blog description"
+image: assets/featured.png
+author: "Parth Gandhi"
+date: "2024-05-10"
+date-modified: "2024-05-10"
+#image:
+categories:
+  - Algo
+  - R
+  - Timescale
+links:
+- icon: journal-text
+  name: Quarto Docs
+  url: https://quarto.org/docs/websites/
+---

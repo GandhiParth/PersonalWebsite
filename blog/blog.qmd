@@ -1,0 +1,17 @@
+---
+title: "Blog"
+description: "blog for my thought"
+listing: 
+  type: default
+  contents: 
+    - "**/index.qmd"
+  sort:
+    - "date desc"
+    - "title desc"
+  date-format: medium
+  categories: true
+  #fields:
+  sort-ui: true
+  filter-ui: true
+  page-size: 10
+---
