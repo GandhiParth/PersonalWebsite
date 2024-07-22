@@ -1,0 +1,53 @@
+---
+title: "Reading List"
+---
+
+# Reading List
+
+## Technical Books
+
+### Book 1: "Title of the Technical Book"
+
+-   **Author:** Author Name
+-   **Publication Date:** Year
+-   **Tags:** `coding`, `statistics`
+-   **Description:** A brief description of what the book is about.
+
+### Book 2: "Title of Another Technical Book"
+
+-   **Author:** Author Name
+-   **Publication Date:** Year
+-   **Tags:** `coding`
+-   **Description:** A brief description of what the book is about.
+
+## Research Papers
+
+### Paper 1: "Title of the Research Paper"
+
+-   **Authors:** Author Names
+-   **Publication Date:** Year
+-   **Tags:** `statistics`
+-   **Description:** A brief description of the paper's content.
+
+### Paper 2: "Title of Another Research Paper"
+
+-   **Authors:** Author Names
+-   **Publication Date:** Year
+-   **Tags:** `coding`
+-   **Description:** A brief description of the paper's content.
+
+## Books from Other Fields
+
+### Book 1: "Title of a Book from Another Field"
+
+-   **Author:** Author Name
+-   **Publication Date:** Year
+-   **Tags:** `philosophy`
+-   **Description:** A brief description of what the book is about.
+
+### Book 2: "Title of Another Book from Another Field"
+
+-   **Author:** Author Name
+-   **Publication Date:** Year
+-   **Tags:** `history`
+-   **Description:** A brief description of what the book is about.

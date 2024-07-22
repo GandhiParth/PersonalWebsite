@@ -24,7 +24,7 @@ website:
           - text: "Recipies"
             href: recipies/recipies.qmd
           - text: "Reading List"
-            href: reading_list.qmd
+            href: reading_list/reading_list.qmd
       - icon: linkedin
         url: https://www.linkedin.com/in/parth-s-gandhi-93b524112/
       - icon: github
